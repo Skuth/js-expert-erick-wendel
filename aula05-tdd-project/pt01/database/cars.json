@@ -1,0 +1,16 @@
+[
+  {
+    "id": "9c5b96d6-17c9-436a-be49-1895f0684b70",
+    "name": "Corvette",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "efadffe8-22e9-4ff6-93a9-796403aee34c",
+    "name": "Taurus",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "c97c5244-9a6d-46e7-9222-ae779313a5ff",
+    "name": "Charger",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "c7c93310-38b6-461d-ba69-915da2bcf716",
+    "name": "Altima",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  }
+]
